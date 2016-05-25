@@ -1,2 +1,3 @@
 # hello-world
-first ever repo
+Bla bla bla
+Lo que sea. This is my first ever github repo.
